@@ -1,6 +1,7 @@
 {
   "name": "color_splash",
   "version": "0.1.0",
+  "homepage" : "http://jeffDevelops.github.io/upio-website",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
